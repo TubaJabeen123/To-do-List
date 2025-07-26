@@ -35,5 +35,5 @@ A beautifully designed **Todo List** web application built using **HTML**, **CSS
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/TubaJabeen123/todo-list-app.git
    cd todo-list-app
